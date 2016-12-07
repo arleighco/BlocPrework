@@ -1,6 +1,6 @@
 # Bloc Prework
 
-Assessment
+<h2>Assessment Overview</h2>
 
 Once you complete all of the pre-work, you must complete the last two assignments (below) and pass the assessment to continue on within Bloc's Designer Track.
 
@@ -14,7 +14,7 @@ This assignment is due by 11:59 pm the Thursday before your course is scheduled 
 
 Your assignment will be reviewed and you will receive further instruction the following day to let you know if you have been cleared to begin the course.
 
-Assignment 1: Working with others via Illustrator
+<strong>Assignment 1: Working with others via Illustrator</strong>
 
 Please create a single Illustrator file with two artboards.
 
@@ -24,7 +24,7 @@ Artboard 1 should have a box measuring 980px x 300px centered on the page. This 
 
 Artboard 2 should be 512px x 512px in size. Inside this artboard, you should have a layer dedicated to Artboard 2 that contains a red circle that is 480px in size and proportional. This red circle should be aligned to the bottom right of the artboard.
 
-Assignment 2: Setting up a basic web page
+<strong>Assignment 2: Setting up a basic web page</strong>
 
 Please create a simple web page containing the following elements:
 
